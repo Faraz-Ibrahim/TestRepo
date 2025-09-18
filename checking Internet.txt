@@ -1,0 +1,11 @@
+readable_2025-09-15
+[2025-09-15 11:23:15]
+  Router (192.168.2.1):      False
+  ISP (private 172.30.0.2): False
+  ISP (public  221.120.249.233): False
+  Public (8.8.8.8):      False
+  DNS/HTTP (google.com): False
+  ==> STATUS: LOCAL_DOWN (router unreachable)
+
+tracert_2025-09-15
+================ STATUS CHANGE @ 2025-09-15 11:23:15 -> LOCAL_DOWN (router unreachable) ================
